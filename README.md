@@ -43,4 +43,4 @@ Onde:
 ## Instalação e Configuração
 1. **Clone o repositório:**
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/ProfAndersonVanin/exercicio.git
